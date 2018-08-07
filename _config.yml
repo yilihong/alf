@@ -9,7 +9,7 @@ background:         'assets/img/DC60-nomods.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://yilihong.github.io/alf/
-remote_theme: Moon
+remote_theme:       Moon
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -45,7 +45,7 @@ github-url:         yilihong
 #linkedin:          username
 #xing:              username
 instagram:          oldcat87
-discord:            https://discord.gg/YXRPs4
+# discord:            https://discord.gg/YXRPs4
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
