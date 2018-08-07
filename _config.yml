@@ -1,5 +1,5 @@
 # Site
-title:              ALF Studio
+title:              ALF Studio (虚线外设)
 bio:                'ALF Studio Official Website.'
 description:        ""
 reading_time:       true
@@ -39,12 +39,13 @@ disqus_shortname:   disqus_okhK0X3gAR
 #bing-verify:
 #email:
 #twitter:            username
-facebook:           https://www.facebook.com/alf_studio
-github-url:         https://github.com/yilihong/
+facebook:           alf_studio
+github-url:         yilihong
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 instagram:          oldcat87
+discord:            https://discord.gg/YXRPs4
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'

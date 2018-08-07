@@ -2,23 +2,30 @@
 layout: page
 title: About ALF Studio
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2018-08-07
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>ALF Studio</b></a> is a premium customized keyboard designer and manufacturer.</center>
+<center><a href="https://alfstudio.club"><b>ALF Studio</b></a> is a premium customized keyboard designer and manufacturer. Master-Dash, the lead designer and head of the studio, has garnered international reputation with products such as ALF X1, X2, X3 Renova, and the latest DC60.</center>
 
 ## Featured Businesses
 * Keyboard CNC machining
 * Anodization
+* Re-Anodization
 * Designs
 
+## Featured Keyboard Projects
+* ALF X1
+* ALF X2
+* ALF X3 Renova
+* DC60
+* F62-PE
 
 ## Preview
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://github.com/yilihong/alf/blob/master/assets/img/DC60-nomods.jpeg
+    https://github.com/yilihong/alf/blob/master/assets/img/GrayDC60.jpeg
 {% endcapture %}
 {% include gallery images=images caption="DC60 Samples" cols=2 %}
 
