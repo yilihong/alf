@@ -24,8 +24,8 @@ comments: false
 ## Preview
 
 {% capture images %}
-    https://raw.githubusercontent.com/yilihong/alf/master/assets/img/DC60-nomods.jpeg
-    https://raw.githubusercontent.com/yilihong/alf/master/assets/img/GrayDCResize.jpeg
+    https://raw.githubusercontent.com/yilihong/alf/gh-pages/assets/img/DC60-nomods.jpeg
+    https://raw.githubusercontent.com/yilihong/alf/gh-pages/assets/img/GrayDCResize.jpeg
 {% endcapture %}
 {% include gallery images=images caption="DC60 Samples" cols=2 %}
 
