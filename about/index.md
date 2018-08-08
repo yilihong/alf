@@ -6,7 +6,7 @@ date: 2018-08-07
 comments: false
 ---
     
-<center><a href="https://alfstudio.club"><b>ALF Studio</b></a> is a premium customized keyboard designer and manufacturer. Master-Dash, the lead designer and head of the studio, has garnered international reputation with products such as ALF X1, X2, X3 Renova, and the latest DC60. Join our [Discord](https://discord.gg/YXRPs4) discussion.</center>
+<center><a href="https://alfstudio.club"><b>ALF Studio</b></a> is a premium customized keyboard designer and manufacturer. Master-Dash, the lead designer and head of the studio, has garnered international reputation with products such as ALF X1, X2, X3 Renova, and the latest DC60.</center>
 
 ## Featured Businesses
 * Keyboard CNC machining
@@ -25,7 +25,7 @@ comments: false
 
 {% capture images %}
     https://raw.githubusercontent.com/yilihong/alf/master/assets/img/DC60-nomods.jpeg
-    https://raw.githubusercontent.com/yilihong/alf/master/assets/img/GrayDC60.jpeg
+    https://raw.githubusercontent.com/yilihong/alf/master/assets/img/GrayDCResize.jpeg
 {% endcapture %}
 {% include gallery images=images caption="DC60 Samples" cols=2 %}
 
