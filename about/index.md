@@ -26,24 +26,4 @@ comments: false
 * UniGo66 (designed by Siuris)
 
 
-## More about ALF
-
-{% capture images %}
-    https://raw.githubusercontent.com/yilihong/alf/gh-pages/assets/img/DC60-nomods.jpeg
-    https://raw.githubusercontent.com/yilihong/alf/gh-pages/assets/img/GrayDCResize.jpeg
-{% endcapture %}
-{% include gallery images=images caption="DC60 Samples" cols=2 %}
-
-{% capture images %}
-    https://raw.githubusercontent.com/yilihong/alf/gh-pages/assets/img/PurpleDC.jpeg
-    https://raw.githubusercontent.com/yilihong/alf/gh-pages/assets/img/DCPCB.jpeg
-{% endcapture %}
-{% include gallery images=images caption="More DC60 Samples" cols=2 %}
-
-{% capture images %}
-    https://raw.githubusercontent.com/yilihong/alf/gh-pages/assets/img/ALF_Ano.jpg
-    https://raw.githubusercontent.com/yilihong/alf/gh-pages/assets/img/ALF_CNC.jpg
-{% endcapture %}
-{% include gallery images=images caption="ALF CNC and Anodization in Action" cols=2 %}
-
 
