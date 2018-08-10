@@ -14,5 +14,5 @@ tag:
     https://raw.githubusercontent.com/yilihong/alf/gh-pages/assets/img/unigo66/1.JPG
     https://raw.githubusercontent.com/yilihong/alf/gh-pages/assets/img/unigo66/2.JPG
 {% endcapture %}
-{% include gallery images=images caption="DC60 Samples" cols=2 %}
+{% include gallery images=images caption="UniGo66 Samples" cols=2 %}
 
