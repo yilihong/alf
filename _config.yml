@@ -11,7 +11,7 @@ locale:             en_US
 url:                https://yilihong.github.io/alf
 remote_theme:       Moon
 # Jekyll
-permalink:          blog/:year/:month/:title/
+permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
