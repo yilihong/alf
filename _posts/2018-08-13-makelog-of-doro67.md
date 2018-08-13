@@ -6,7 +6,7 @@ excerpt: "This post records the making of Doro67."
 tags: [makelog,doro67]
 ---
 
-The concept of Doro67 was conceived by 80Ultraman (Gghi on GH), a reputable designer based in Pittsburg, PA, who also created the SA Composite Keycap Set. The goal of Doro67 was to construct a simple yet functional integrated 65% keyboard, which allows for a ultra stable typing experience. The case shape is inspired by the unity feel of the Rama's M65A, yet distinguishes itself as more integrative. Here are the key features:
+The concept of Doro67 was conceived by 80Ultraman (Gghi on GH), a reputable designer based in Pittsburg, PA, who also created the SA Composition Keycap Set. The goal of Doro67 was to construct a simple yet functional integrated 65% keyboard, which allows for a ultra stable typing experience. The case shape is inspired by the unity feel of the Rama's M65A, yet distinguishes itself as more integrative. Here are the key features:
 
 Features:
 
