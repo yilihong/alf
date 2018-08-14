@@ -3,6 +3,7 @@ layout: post
 title: "The Make Log of Doro67"
 date: 2018-08-13
 excerpt: "This post records the making of Doro67."
+comments: true
 tags: [makelog,doro67]
 ---
 
