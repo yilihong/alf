@@ -20,7 +20,7 @@ DC60的标配PCB（沉金非蓝牙版本，虚线外设提供）是由QMK驱动�
 
 ### qmk.fm
 
-如果你选中使用qmk官网固件工具，请访问：[https://config.qmk.fm/#/dc60/LAYOUT](https://config.qmk.fm/#/dc60/LAYOUT), 然后参照作者的指引进行 .hex固件的生成。
+如果你选择使用qmk官网固件工具，请访问：[https://config.qmk.fm/#/dc60/LAYOUT](https://config.qmk.fm/#/dc60/LAYOUT), 然后参照作者的指引进行 .hex固件的生成。
 
 ### kbfirmware.com 或 qmkeyboard.cn
 
