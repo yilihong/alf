@@ -36,6 +36,10 @@ DC60的标配PCB（沉金非蓝牙版本，虚线外设提供）是由QMK驱动�
 
 如果您需要刷左移或者minila版本，请下载使用这个[json 文件](/assets/firmware/dc60_minila.json), 并继续以上的步骤进行刷机.
 
+#### WKL配列
+
+如果您需要刷WKL版本，请下载使用这个[json 文件](/assets/firmware/dc60-WKL.json), 并继续以上的步骤进行刷机.
+
 ### 刷机
 
 * 按照并运行[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)软件。
