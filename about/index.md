@@ -16,14 +16,18 @@ comments: false
 
 ## Featured Original Keyboard Projects
 * ALF X1
+* ALF X1.1 Special Edition
 * ALF X2
 * ALF X3 Renova
 * DC60
 * F62-PE
+* More coming
 
-## Featured Manufacturing Projects
+## Recent Manufacturing Projects
 * Doro67 (designed by 80ULTRAMAN)
 * UniGo66 (designed by Siuris)
+* Chicory40 (designed by ProD)
+* Many more
 
 
 
