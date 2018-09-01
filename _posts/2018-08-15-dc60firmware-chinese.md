@@ -45,7 +45,7 @@ DC60的标配PCB（沉金非蓝牙版本，虚线外设提供）是由QMK驱动�
 * 按照并运行[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)软件。
 * 开始刷固件，请先断开USB线。断开后，按住空格键的同时按住B键，并在此时连接USB线接通键盘到电脑。DC60现在会进入刷机模式。在刷机模式下，在[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)软件中点击选择刚才上一步生成的.hex文件，并点击 *flash*来刷机。大概2秒之后，键盘将被刷好，成功！
 
-## 已经刷过GH60驱动的
+### 已经刷过GH60驱动的
 
 已经刷过GH60驱动的Windows用户可能会碰到无法刷机，此时，可以选择用tkg-toolkit-master进行刷机。按下刷机键，把改好的HEX文件直接拖到tkg-toolkit-master\windows\reflash.bat上，等待10秒左右就好了。
 
