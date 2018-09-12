@@ -19,7 +19,7 @@ comments: false
 * ALF X1.1 Special Edition
 * ALF X2
 * ALF X3 Renova
-* DC60
+* DC60 (joint design with Cary)
 * F62-PE
 * More coming
 
@@ -27,6 +27,8 @@ comments: false
 * Doro67 (designed by 80ULTRAMAN)
 * UniGo66 (designed by Siuris)
 * Chicory40 (designed by ProD)
+* G60 (designed by Scott Wei)
+* Dolch.CR (joint design with Cary)
 * Many more
 
 
